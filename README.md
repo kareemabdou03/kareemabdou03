@@ -55,6 +55,6 @@ My journey in computer science has fueled a passion for cybersecurity, and I am 
 </div>
 
 ## Projects
-- The Data Dig
+- <a href ="https://github.com/kareemabdou03/The-Data-Dig"> The Data Dig </a>
 - SolarWinds Sentinel
 - File Integrity Monitoring and Detection Changes
